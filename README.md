@@ -19,9 +19,15 @@ Though it could be possible, that you have to make fine adjustments for the unsu
 
 ### Javascript
 
+![Javascript-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/js.png)
+
 ### HTML
 
+![HTML-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/html.png)
+
 ### CSS
+
+![CSS-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/css.png)
 
 
 ## Installation
