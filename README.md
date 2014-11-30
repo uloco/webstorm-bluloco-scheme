@@ -17,6 +17,9 @@ Though it could be possible, that you have to make fine adjustments for the unsu
 
 ## Screenshots:
 
+A few samples of the look and feel.
+The used font here is Adobe's beautiful `SourceCodePro Medium`.
+
 ### Javascript
 
 ![Javascript-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/js.png)
