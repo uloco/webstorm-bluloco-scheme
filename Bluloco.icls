@@ -1,6 +1,6 @@
 <scheme name="Bluloco" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="17" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -138,29 +138,6 @@
     <option name="CLASS_REFERENCE">
       <value>
         <option name="FOREGROUND" value="769aa5" />
-        <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.EXPRESSIONS_SUBSTITUTION_MARK">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE">
-      <value>
-        <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.JAVASCRIPT_CONTENT">
-      <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="COFFEESCRIPT.LOCAL_VARIABLE">
-      <value>
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
@@ -442,7 +419,7 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="f96cee" />
+        <option name="FOREGROUND" value="9d5df0" />
         <option name="BACKGROUND" value="222222" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -461,7 +438,7 @@
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="9d5df0" />
+        <option name="FOREGROUND" value="f96cee" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -559,6 +536,13 @@
       <value>
         <option name="FOREGROUND" value="8484aa" />
         <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="DEFAULT_PREDEFINED_SYMBOL">
+      <value>
+        <option name="FOREGROUND" value="3fc56b" />
+        <option name="BACKGROUND" value="222222" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_SEMICOLON">
@@ -683,7 +667,7 @@
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
         <option name="EFFECT_COLOR" value="f4821a" />
-        <option name="ERROR_STRIPE_COLOR" value="aa5048" />
+        <option name="ERROR_STRIPE_COLOR" value="9b5a4c" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -734,52 +718,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_CLASS">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="HAML_FILTER">
-      <value>
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="HAML_FILTER_CONTENT">
-      <value>
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="HAML_ID">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
     <option name="HAML_RUBY_CODE">
       <value>
-        <option name="BACKGROUND" value="232323" />
+        <option name="FOREGROUND" value="dee0df" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
-    <option name="HAML_RUBY_START">
+    <option name="HAML_TAG_NAME">
       <value>
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="HAML_TAG">
-      <value>
-        <option name="FOREGROUND" value="e8bf6a" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="HAML_TEXT">
-      <value>
-        <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="HAML_XHTML">
-      <value>
+        <option name="FOREGROUND" value="285bf1" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -826,7 +773,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="29353b" />
+        <option name="BACKGROUND" value="3b3534" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -881,12 +828,6 @@
       <value>
         <option name="EFFECT_COLOR" value="ff0000" />
         <option name="EFFECT_TYPE" value="2" />
-      </value>
-    </option>
-    <option name="JADE_FILE_PATH">
-      <value>
-        <option name="FOREGROUND" value="8585ff" />
-        <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="JADE_FILTER_NAME">
@@ -1046,13 +987,6 @@
     <option name="JS.ATTRIBUTE">
       <value>
         <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="dee0df" />
-        <option name="BACKGROUND" value="222222" />
-        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="JSON.KEYWORD">
@@ -1314,13 +1248,6 @@
     <option name="SASS_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
-        <option name="EFFECT_TYPE" value="0" />
-      </value>
-    </option>
-    <option name="SASS_COMMENT">
-      <value>
-        <option name="FOREGROUND" value="bc9455" />
-        <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1690,9 +1617,9 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="425f44" />
+        <option name="BACKGROUND" value="334a35" />
         <option name="EFFECT_COLOR" value="56ac48" />
-        <option name="ERROR_STRIPE_COLOR" value="425f44" />
+        <option name="ERROR_STRIPE_COLOR" value="80b582" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1700,7 +1627,7 @@
       <value>
         <option name="FOREGROUND" value="acce1b" />
         <option name="FONT_TYPE" value="2" />
-        <option name="ERROR_STRIPE_COLOR" value="a74c0" />
+        <option name="ERROR_STRIPE_COLOR" value="9bde" />
         <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
@@ -1796,7 +1723,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4d2c36" />
-        <option name="ERROR_STRIPE_COLOR" value="7fc116" />
+        <option name="ERROR_STRIPE_COLOR" value="d732cb" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
