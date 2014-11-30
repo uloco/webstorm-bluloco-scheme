@@ -39,8 +39,11 @@ It is really easy to install.
 
 1.  Put the `Bluloco.icl` file in the config folder of your Webstorm installation.
     Standard paths are:
+
     _Linux_:  `~/.Webstorm9/config/colors/`
+    
     _Mac_:    `~/Libraries/Preferences/.Webstorm9/config/colors/`
+    
     _Windows_ path: `%USERPROFILE%/.Webstorm9/config/colors`
 
 2. Restart the IDE
