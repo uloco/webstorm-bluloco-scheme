@@ -46,3 +46,6 @@ It is really easy to install.
 2. Restart the IDE
 3. Select the new `Bluloco` Theme in `Preferences | Editor | Colors & Fonts`.
 
+## Sublime Text
+I recently added support for the Sublime Text / Textmate editor.
+Herefore, just take the `Bluloco.tmTheme` file, and insert it in your User packages folder.
