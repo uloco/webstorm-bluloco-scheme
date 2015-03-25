@@ -219,7 +219,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#285bf1</string>
+				<string>#3476ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -410,7 +410,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#285bf1</string>
+				<string>#3476ff</string>
 			</dict>
 		</dict>
 		<dict>
@@ -1283,7 +1283,7 @@
 				<key>fontStyle</key>
 				<string>underline</string>
 				<key>foreground</key>
-				<string>#285bf1</string>
+				<string>#3476ff</string>
 			</dict>
 		</dict>
 		<dict>
