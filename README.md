@@ -1,7 +1,7 @@
 webstorm-bluloco-scheme
 =======================
 
-The bluloco color scheme for Jetbrains' Webstorm IDE 10 (and other Jetbrains IDEs)
+The bluloco color scheme for Jetbrains' Webstorm IDE 10 (and other Jetbrains IDEs) + Sublime Text / TextMate.
 
 This scheme / theme supports all built-in languages in Webstorm 10:
 
@@ -47,7 +47,12 @@ It is really easy to install.
     _Windows_ path: `%USERPROFILE%/.Webstorm10/config/colors`
 
 2. Restart the IDE
-3. Select the new `Bluloco` Theme in `Preferences | Editor | Colors & Fonts`.
+3. Select the new `Bluloco` Theme in `Preferences > Editor > Colors & Fonts`.
+
+## Alternative via Import
+
+You can also install the theme by simply importing the `Bluloco.jar` file directly in Webstorm, via `File > Import Settings`.
+
 
 ## Sublime Text / TextMate
 I recently added support for the Sublime Text / Textmate editor.
