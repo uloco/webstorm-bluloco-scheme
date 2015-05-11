@@ -547,14 +547,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_RUBY_CODE">
-      <value>
-        <option name="FOREGROUND" value="dee0df" />
-      </value>
-    </option>
     <option name="HAML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="285bf1" />
+        <option name="FOREGROUND" value="3476ff" />
       </value>
     </option>
     <option name="HTML_TAG_NAME">
@@ -625,12 +620,6 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION">
-      <value>
-        <option name="FOREGROUND" value="dee0df" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="JSON.KEYWORD">
       <value>
         <option name="FOREGROUND" value="b1fe" />
@@ -639,18 +628,6 @@
     <option name="JSON.PROPERTY_KEY">
       <value>
         <option name="FOREGROUND" value="b38b7d" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="JSP_DIRECTIVE_BACKGROUND">
-      <value>
-        <option name="FOREGROUND" value="dee0df" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
-    <option name="JSP_SCRIPTING_BACKGROUND">
-      <value>
-        <option name="FOREGROUND" value="a6d3e7" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -781,11 +758,6 @@
       <value>
         <option name="FOREGROUND" value="219598" />
         <option name="EFFECT_TYPE" value="-1" />
-      </value>
-    </option>
-    <option name="REGEXP.REDUNDANT_ESCAPE">
-      <value>
-        <option name="FOREGROUND" value="ff6f23" />
       </value>
     </option>
     <option name="SASS_MIXIN">
@@ -934,16 +906,9 @@
         <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
-    <option name="XML_TAG">
-      <value>
-        <option name="FOREGROUND" value="285bf1" />
-        <option name="BACKGROUND" value="222222" />
-        <option name="EFFECT_TYPE" value="5" />
-      </value>
-    </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="285bf1" />
+        <option name="FOREGROUND" value="3476ff" />
       </value>
     </option>
     <option name="XPATH.XPATH_VARIABLE">
