@@ -35,23 +35,7 @@ The used font here is Adobe's beautiful `SourceCodePro Medium`.
 
 ## Installation
 
-It is really easy to install.
-
-1.  Put the `Bluloco.icl` file in the config folder of your Webstorm installation.
-    Standard paths are:
-
-    _Linux_:  `~/.Webstorm10/config/colors/`
-
-    _Mac_:    `~/Libraries/Preferences/.Webstorm10/config/colors/`
-
-    _Windows_ path: `%USERPROFILE%/.Webstorm10/config/colors`
-
-2. Restart the IDE
-3. Select the new `Bluloco` Theme in `Preferences > Editor > Colors & Fonts`.
-
-## Alternative via Import
-
-You can also install the theme by simply importing the `Bluloco.jar` file directly in Webstorm, via `File > Import Settings`.
+You can install the theme by simply importing the `Bluloco.jar` file directly in Webstorm, via `File > Import Settings`.
 
 
 ## Sublime Text / TextMate
