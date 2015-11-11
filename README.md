@@ -1,9 +1,9 @@
 webstorm-bluloco-scheme
 =======================
 
-The bluloco color scheme for Jetbrains' Webstorm IDE 10 (and other Jetbrains IDEs) + Sublime Text / TextMate.
+The bluloco color scheme for Jetbrains' Webstorm IDE 11 (and other Jetbrains IDEs) + Sublime Text / TextMate.
 
-This scheme / theme supports all built-in languages in Webstorm 10:
+This scheme / theme supports all built-in languages in Webstorm 11:
 
 ```
 JavaScript, CoffeeScript, CSS, Cucumber, Dart EJS, HAML Handlebars/Mustache,
