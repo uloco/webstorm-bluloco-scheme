@@ -40,4 +40,4 @@ You can install the theme by simply importing the `Bluloco.jar` file directly in
 
 ## Sublime Text / TextMate
 I recently added support for the Sublime Text / Textmate editor.
-Herefore, just take the `Bluloco.tmTheme` file, and insert it in your User packages folder.
+Herefore, just take the `Bluloco.tmTheme` file, and insert it in your User packages folder, that's it.
