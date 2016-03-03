@@ -21,19 +21,6 @@ Though it could be possible, that you have to make fine adjustments for the unsu
 A few samples of the look and feel.
 The used font here is Adobe's beautiful `SourceCodePro Medium`.
 
-## Light Theme
-
-### Javascript
-
-![Javascript-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/js-light.png)
-
-### HTML
-
-![HTML-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/html-light.png)
-
-### CSS
-
-![CSS-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/css-light.png)
 
 ## Dark Theme
 
@@ -50,6 +37,20 @@ The used font here is Adobe's beautiful `SourceCodePro Medium`.
 ![CSS-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/css.png)
 
 
+## Light Theme
+
+### Javascript
+
+![Javascript-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/js-light.png)
+
+### HTML
+
+![HTML-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/html-light.png)
+
+### CSS
+
+![CSS-Screenshot](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/css-light.png)
+
 ## Installation
 
 You can install the theme by simply importing the `Bluloco.jar` file directly in Webstorm, via `File > Import Settings`.
@@ -64,7 +65,7 @@ You can install the theme by simply importing the `Bluloco.jar` file directly in
 
     _Mac_:    `~/Libraries/Preferences/.Webstorm10/config/colors/`
 
-    _Windows_ path: `%USERPROFILE%/.Webstorm10/config/colors`
+    _Windows_: `%USERPROFILE%/.Webstorm10/config/colors`
 
 2. Restart the IDE
 3. Select the new `Bluloco` Theme in `Preferences | Editor | Colors & Fonts`.
