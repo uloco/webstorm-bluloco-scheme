@@ -8,7 +8,7 @@ This scheme / theme supports all built-in languages in Webstorm.
 
 ## Screenshots:
 
-The used font here is Adobe's beautiful `Source Code Pro Medium`.
+The used font here is Adobe's beautiful [Source Code Pro Medium](https://github.com/adobe-fonts/source-code-pro).
 
 ### Dark
 
