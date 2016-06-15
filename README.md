@@ -54,6 +54,8 @@ This will install all variants.
 
 ## Atom Editor
 I also added the dark and light variant to the atom editor.
-Check them out, too!
-https://atom.io/themes/bluloco-dark-syntax
+Check them out, too!  
+https://atom.io/themes/bluloco-dark-syntax  
 https://atom.io/themes/bluloco-light-syntax
+
+## Have fun! :)
