@@ -14,22 +14,26 @@
     <option name="CARET_ROW_COLOR" value="2d333d" />
     <option name="CONSOLE_BACKGROUND_KEY" value="" />
     <option name="DELETED_LINES_COLOR" value="8c3c3c" />
-    <option name="FILESTATUS_ADDED" value="629755" />
+    <option name="FILESTATUS_ADDED" value="3fc56b" />
+    <option name="FILESTATUS_COPIED" value="3fc56b" />
     <option name="FILESTATUS_DELETED" value="6c6c6c" />
+    <option name="FILESTATUS_HIJACKED" value="a05a48" />
     <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED" value="" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="6897bb" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="6897bb" />
-    <option name="FILESTATUS_UNKNOWN" value="d1675a" />
-    <option name="FILESTATUS_addedOutside" value="629755" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="f9c859" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff78f8" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff78f8" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff78f8" />
+    <option name="FILESTATUS_MERGED" value="9f7efe" />
+    <option name="FILESTATUS_MODIFIED" value="10b1fe" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="10b1fe" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="10b1fe" />
+    <option name="FILESTATUS_OBSOLETE" value="fdacf9" />
+    <option name="FILESTATUS_RENAMED" value="5fb9bc" />
+    <option name="FILESTATUS_SWITCHED" value="3476ff" />
+    <option name="FILESTATUS_UNKNOWN" value="ff6480" />
+    <option name="FILESTATUS_addedOutside" value="3fc56b" />
+    <option name="FILESTATUS_changelistConflict" value="ff78f8" />
+    <option name="FILESTATUS_modifiedOutside" value="10b1fe" />
     <option name="GUTTER_BACKGROUND" value="333842" />
     <option name="INDENT_GUIDE" value="3a3f4b" />
     <option name="LINE_NUMBERS_COLOR" value="636d83" />
@@ -924,7 +928,6 @@
         <option name="FOREGROUND" value="219598" />
       </value>
     </option>
-    <option name="SASS_MIXIN" baseAttributes="DEFAULT_KEYWORD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="2a5734" />
