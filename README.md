@@ -1,7 +1,7 @@
 webstorm-bluloco-scheme
 =======================
 
-**[UPDATE]**
+**[UPDATE]**  
 Unfortunately I have to discontinue the development of the *dim* *material* and *night* variants due to lack of time.
 I will leave the files in this repository. If you like them and want to help me, feel free to make a pull requrest or fork :)
 
