@@ -1,6 +1,10 @@
 webstorm-bluloco-scheme
 =======================
 
+**[UPDATE]**
+Unfortunately I have to discontinue the development of the *dim* *material* and *night* variants due to lack of time.
+I will leave the files in this repository. If you like them and want to help me, feel free to make a pull requrest or fork :)
+
 The bluloco color scheme for Jetbrains' Webstorm IDE (and other Jetbrains IDEs)
 There is theme includes several variants: dark, light, dim, material and night.
 
@@ -57,5 +61,10 @@ I also added the dark and light variant to the atom editor.
 Check them out, too!  
 https://atom.io/themes/bluloco-dark-syntax  
 https://atom.io/themes/bluloco-light-syntax
+
+## Visual Studio Code / Sublime / TextMate
+You can find the tmTheme Variant in the following repositories  
+https://github.com/uloco/theme-bluloco-light
+https://github.com/uloco/theme-bluloco-dark
 
 ## Have fun! :)
