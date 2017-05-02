@@ -64,7 +64,7 @@ https://atom.io/themes/bluloco-light-syntax
 
 ## Visual Studio Code / Sublime / TextMate
 You can find the tmTheme Variant in the following repositories  
-https://github.com/uloco/theme-bluloco-light
-https://github.com/uloco/theme-bluloco-dark
+https://github.com/uloco/theme-bluloco-light  
+https://github.com/uloco/theme-bluloco-dark  
 
 ## Have fun! :)
