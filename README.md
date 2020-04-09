@@ -7,21 +7,26 @@ This scheme / theme supports all built-in languages in Webstorm.
 
 ## Screenshots:
 
-The used font here is Adobe's beautiful [Source Code Pro Medium](https://github.com/adobe-fonts/source-code-pro).
+The used font here is [Iosevka](https://github.com/be5invis/Iosevka).
 
 ### Dark
 
-![dark](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/dark.png)
+![dark](./Pictures/dark.png)
 
 ### Light
 
-![light](https://github.com/uloco/webstorm-bluloco-scheme/blob/master/Pictures/light.png)
+![light](./Pictures/light.png)
 
 
 ## Installation
 
-You can install the theme by simply importing the `Bluloco.jar` file directly in Webstorm, via `File > Import Settings`.
-This will install all variants.
+You need to open `Preferences > Editor > Color Scheme` and click on the little cog icon and select `Import Scheme`
+
+Like so:
+![install](./Pictures/install.png)
+
+
+Import both `Bluloco Dark.icls` and `Bluloco Light.icls` files here.
 
 
 ## Atom Editor
