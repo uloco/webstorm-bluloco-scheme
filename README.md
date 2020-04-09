@@ -11,11 +11,11 @@ The used font here is [Iosevka](https://github.com/be5invis/Iosevka).
 
 ### Dark
 
-![dark](./Pictures/dark.png)
+<img src="./Pictures/dark.png" width=600>
 
 ### Light
 
-![light](./Pictures/light.png)
+<img src="./Pictures/light.png" width=600>
 
 
 ## Installation
@@ -23,7 +23,7 @@ The used font here is [Iosevka](https://github.com/be5invis/Iosevka).
 You need to open `Preferences > Editor > Color Scheme` and click on the little cog icon and select `Import Scheme`
 
 Like so:
-![install](./Pictures/install.png)
+<img src="./Pictures/install.png" width=600>
 
 
 Import both `Bluloco Dark.icls` and `Bluloco Light.icls` files here.
