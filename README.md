@@ -23,6 +23,7 @@ The used font here is [Iosevka](https://github.com/be5invis/Iosevka).
 You need to open `Preferences > Editor > Color Scheme` and click on the little cog icon and select `Import Scheme`
 
 Like so:
+
 <img src="./Pictures/install.png" width=600>
 
 
